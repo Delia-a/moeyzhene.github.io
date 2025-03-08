@@ -1,0 +1,54 @@
+
+body{
+    background-image: url(images/serdechki.png);
+    background-repeat: repeat;
+    background-size: 700px;
+}
+#naslov {
+    background-color: palevioletred;
+    width: 500px;
+    height: 100px;
+    font-size: 70px;
+    color: firebrick;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border: 5px rgb(143, 41, 75) solid;
+    border-radius: 16px;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.element{
+    margin-left: 850px;
+    border: 5px palevioletred solid;
+    border-radius: 110px;
+}
+.ruka{
+    margin-left: -8px; 
+    margin-top: -90px; 
+}
+#vopros{
+    margin-left: 670px;
+    font-size: 50px;
+    color: maroon;
+}
+.ruki{
+    margin-left: 900px;
+    margin-top: -120px;
+}
+#da{
+    margin-left: 950px;
+    border: 5px rgb(163, 66, 99) solid;
+    border-radius: 16px;
+}
+#net{
+    margin-left: 943px;
+    margin-top: 20px;
+    border: 5px rgb(163, 66, 99) solid;
+    border-radius: 16px;
+}
+#kotik{
+    margin-top: -600px;
+    margin-left: 830px;
+}
+
+
